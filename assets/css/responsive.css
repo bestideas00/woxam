@@ -1,0 +1,222 @@
+@media (min-width:320px) and (max-width:575.98px) {
+    nav {
+        background: #000;
+        font-size: 18px;
+    }
+    nav h2 {
+        font-size: 20px;
+        margin-right: 36px;
+    }
+    nav button i{
+        color: #fff;
+    }
+    nav ul {
+        margin: 10px 0 0 0;
+        text-align: center;
+    }
+    nav .ser {
+        display: none;
+    }
+    .banner_con h2 {
+        font-size: 22px;
+        margin: 121px 0 0 0;
+    }
+    .banner_con h1 {
+        font-size: 45px;
+        margin-top: 40px;
+    }
+    .banner_con p {
+        font-size: 12px;
+        width: 298.5px;
+    }
+    .banner_part .slick-dots {
+        bottom: 40px;
+        transform: translateX(-59%);
+    }
+    .banner_part .btn {
+        margin: 0 0 100px 0;
+    }
+    .service_part {
+        margin: 30px 0;
+    }
+    .service_con {
+        margin-top: 30px;
+    }
+    .service_part .service_con h3 {
+        padding: 10px 0;
+    }
+    .service_part .service_con i{
+        margin-top: 20px;
+    }
+    .idea_part .title h2 {
+        font-size: 20px;
+    }
+    .idea_part .title p {
+        width: 305px;
+    }
+    .bot_part .bot_con_text h4 {
+        font-size: 25px;
+    }
+    .bot_part .bot_con_text p {
+        font-size: 15px;
+        margin: 20px 0 0 0;
+    }
+    .bot_part .bot_con_btn .btn {
+        justify-content: center;
+    }
+    .idea_part .title p {
+        width: 247px;
+    }
+    .video_part {
+        padding: 0px;
+    }
+    .video_part .text p {
+        width: 281px;
+    }
+    .mobile_part {
+        padding: 35px 0 0 0;
+    }
+    .mobile_part .txt_con img {
+        margin: 0px;
+    }
+    .mobile_part .txt_con ul {
+        margin-top: 30px;
+        padding-left: 0rem;
+    }
+    .rec_post {
+        padding: 0px;
+    }
+    .idea_part .title p {
+        width: 272px;
+    }
+    .rec_post .rec_con {
+        margin: 0 0 15px 0;
+    }
+    .partner_part {
+        padding: 0 ;
+    }
+    .partner_part .img_con {
+        margin: 40px 0;
+    }
+    .footer_part {
+        padding: 0px;
+    }
+    .footer_part .img_item img {
+        width: 100%;
+    }
+    .f-footer_part .rig {
+        padding: 0px;
+    }
+}
+@media (min-width:575px) and (max-width:768.98px) {
+    nav {
+        background: #000;
+        font-size: 18px;
+    }
+    nav h2 {
+        font-size: 20px;
+        margin-right: 36px;
+    }
+    nav button i{
+        color: #fff;
+    }
+    nav ul {
+        margin: 10px 0 0 0;
+        text-align: center;
+    }
+    nav .ser {
+        display: none;
+    }
+    .banner_con h2 {
+        font-size: 22px;
+        margin: 121px 0 0 0;
+    }
+    .banner_con h1 {
+        font-size: 45px;
+        margin-top: 40px;
+    }
+    .banner_con p {
+        font-size: 20px;
+    }
+    .banner_part .slick-dots {
+        bottom: 40px;
+        transform: translateX(-59%);
+    }
+    .banner_part .btn {
+        margin: 0 0 100px 0;
+    }
+    .service_part {
+        margin: 30px 0;
+    }
+    .service_con {
+        margin-top: 30px;
+    }
+    .service_part .service_con h3 {
+        padding: 10px 0;
+    }
+    .service_part .service_con p {
+        width: auto;
+    }
+    .service_part .service_con i{
+        margin-top: 20px;
+    }
+    .idea_part .title h2 {
+        font-size: 20px;
+    }
+    .idea_part .title p {
+        width: 305px;
+    }
+    .bot_part .bot_con_text h4 {
+        font-size: 25px;
+    }
+    .bot_part .bot_con_text p {
+        font-size: 15px;
+        margin: 20px 0 0 0;
+    }
+    .bot_part .bot_con_btn .btn {
+        justify-content: center;
+    }
+    .idea_part .title p {
+        width: 247px;
+    }
+    .video_part {
+        padding: 0px;
+    }
+    .video_part .text p {
+        width: 281px;
+    }
+    .mobile_part {
+        padding: 35px 0 0 0;
+    }
+    .mobile_part .txt_con img {
+        margin: 0px;
+    }
+    .mobile_part .txt_con ul {
+        margin-top: 30px;
+        padding-left: 0rem;
+    }
+    .rec_post {
+        padding: 0px;
+    }
+    .idea_part .title p {
+        width: 272px;
+    }
+    .rec_post .rec_con {
+        margin: 0 0 15px 0;
+    }
+    .partner_part {
+        padding: 0 ;
+    }
+    .partner_part .img_con {
+        margin: 40px 0;
+    }
+    .footer_part {
+        padding: 0px;
+    }
+    .footer_part .img_item img {
+        width: 100%;
+    }
+    .f-footer_part .rig {
+        padding: 0px;
+    }
+}
