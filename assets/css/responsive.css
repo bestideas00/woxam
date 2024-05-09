@@ -36,6 +36,9 @@
     .banner_part .btn {
         margin: 0 0 100px 0;
     }
+    .service_part .service_con p {
+        width: 0 auto;
+    }
     .service_part {
         margin: 30px 0;
     }
