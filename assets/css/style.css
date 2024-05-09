@@ -20,7 +20,7 @@ a {
 :root {
    --montsarrat : 'Montserrat', sans-serif;
 }
-body {
+html, body {
    overflow-x: hidden;
 }
 /*  nav start */
@@ -38,7 +38,7 @@ nav a {
    transition: .4s;
    color: #fff !important;
 }
-nav li a.active {
+nav li .active {
    color: #998675 !important;
 }
 nav li a:hover {

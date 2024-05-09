@@ -17,7 +17,7 @@ $(".back_to_top").click(function(){
 $(window).scroll(function(){
   if($(window).scrollTop() > 300){
     $(".back_to_top").fadeIn()
-  }else {
+  } else {
     $(".back_to_top").fadeOut()
   }
 })
